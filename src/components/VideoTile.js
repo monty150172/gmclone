@@ -1,5 +1,6 @@
 // src/components/VideoTile.js
 import React from "react";
+import "../App.css";
 
 function VideoTile({ participant }) {
     return (

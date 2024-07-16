@@ -1,6 +1,7 @@
 // src/components/VideoGrid.js
 import React from "react";
 import VideoTile from "./VideoTile";
+import "../App.css";
 
 function VideoGrid() {
     // Beispiel-Teilnehmer
